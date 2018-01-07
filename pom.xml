@@ -49,5 +49,6 @@
     	<module>mybatisBasic</module>
     	<module>MybatisConfig</module>
     	<module>mybatisConfig</module>
+    	<module>springbootmybatis</module>
     </modules>
 </project>
