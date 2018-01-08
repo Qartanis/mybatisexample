@@ -46,6 +46,7 @@ public class ApplicationForXml {
 		System.out.println("页面统计:"+page.getPages());
 		System.out.println("当前页:"+page.getPageNum());
 		System.out.println("合计行:"+page.getTotal());
+		//一级缓存测试
 		session.close();
 	}
 }
